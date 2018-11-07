@@ -21,7 +21,7 @@
       "databaseName": "imagesdb",
       "collectionName": "images",
       "createIfNotExists": false,
-      "connection": "swdachou-db_DOCUMENTDB",
+      "connection": "imgrec_DOCUMENTDB",
       "direction": "out"
     }
   ],
